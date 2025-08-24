@@ -5,7 +5,7 @@ Note: This README file assumes that docker and apache airflow is correctly confi
 # Pre-requisites
 - Docker Desktop
 - VS Code
-- Download this directory
+- Download this directory. Under dags folder, the DAG is written in springboard_project3.py
 
 # Steps to run
 1. Start Docker Desktop
