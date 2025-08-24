@@ -31,7 +31,7 @@ Note: This README file assumes that docker and apache airflow is correctly confi
    <img width="1712" height="784" alt="image" src="https://github.com/user-attachments/assets/5f59ed15-c4bd-4672-b73b-f5fc0767032d" />
 
 When DAG successfully executes on its scheduled time, expect to find the results within this project directory under:
-/dags/output/<YYYY-MM-DD>
+/dags/output/<YYYY-MM-DD>. Note that this folder is created in t5, so this folder will appear once the tasks have been executed.
 
 <img width="374" height="528" alt="image" src="https://github.com/user-attachments/assets/7a198d86-2947-4795-8adb-8db64d09f1d4" />
 
